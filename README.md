@@ -3,7 +3,7 @@
 </a>
 
 ### What's up
-I'm a pretty small YouTuber, who really only uses GitHub to store some [dotfiles](https://github.com/makccr/dot) & [wallpapers](https://github.com/makccr/wallpapers). I do however have a few different custom [polybar](https://github.com/makccr/awmp) [modules](https://github.com/makccr/pyt), and the [source code](https://github.com/makccr/makccr.github.io) for my personal website is easily accesible here as well; it's for the most part, 100% CSS & HTML (and a tiny bit of JavaScript), but no frameworks, and no JS libraries.
+I'm a pretty small YouTuber, who really only uses GitHub to store some [dotfiles](https://github.com/makccr/dot) & [wallpapers](https://github.com/makccr/wallpapers). I do however have a few different custom [polybar](https://github.com/makccr/awmp) [modules](https://github.com/makccr/pyt), and the [source code](https://github.com/makccr/makccr.github.io) for my personal website is easily accesible here as well; it's for the most part, 100% CSS & HTML (and a tiny bit of JavaScript), but no frameworks or libraries.
 
 <h3 align="center">Links</h3>
 <p align='center'>
