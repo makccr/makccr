@@ -12,5 +12,6 @@ I'm a pretty small YouTuber, who really only uses GitHub to store some [dotfiles
     <a href='https://twitter.com/makccr' target='_blank'>Twitter</a> •
     <a href='https://www.reddit.com/user/mack_criswell' target='_blank'>Reddit</a> •
     <a href='https://odysee.com/@makc:a' target='_blank'>Odysee Channel</a> •
+    <a href='https://makc.co/merch' target='_blank'>Merch</a>
     <a href='https://makccr.medium.com/' target='_blank'>Blog</a>
 </p>
