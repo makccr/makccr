@@ -4,6 +4,3 @@
 
 ### What's up?
 I'm a pretty small YouTuber, who really only uses GitHub to store some [dotfiles](https://github.com/makccr/dot) & [wallpapers](https://github.com/makccr/wallpapers). I do however have a few different [custom](https://github.com/makccr/disk-monitor-polybar) [polybar](https://github.com/makccr/awmp) [modules](https://github.com/makccr/pyt), and the [source code](https://github.com/makccr/makccr.github.io) for my personal website is easily accesible here as well; it's for the most part, 100% CSS & HTML (and a tiny bit of JavaScript), but no frameworks or libraries.
-
-![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=makccr&show_icons=true&theme=github_dark&hide_border=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makccr&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
